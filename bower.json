@@ -17,5 +17,11 @@
     "test",
     "src"
   ],
+  "files": [
+    "./release/angular-ui-router.js",
+    "./release/angular-ui-router.min.js",
+    "./release/angular-ui-router.js.map",
+    "./release/angular-ui-router.min.js.map"
+  ],
   "version": "1.0.15"
 }
